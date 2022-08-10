@@ -1,0 +1,14 @@
+{
+  "Tickets": [
+    { "id": 1, "title": "TicketRef" },
+    { "id": 2, "title": "TicketRef" },
+    { "id": 3, "title": "TicketRef" }
+  ],
+  "Updates": [
+    { "id": 1, "body": "some comment", "ticketId": 1 },
+    { "id": 2, "body": "some comment", "ticketId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
